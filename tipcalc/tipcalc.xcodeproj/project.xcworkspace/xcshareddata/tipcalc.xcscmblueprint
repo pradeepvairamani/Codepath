@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "12F20AF7E593D03452898CE92B2C66146DAEEB9D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "515E0327B119E0A6618076DA0106CD2721BD8D48" : 9223372036854775807,
+    "12F20AF7E593D03452898CE92B2C66146DAEEB9D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "29363287-9759-4359-818E-2C254B28FBCC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "515E0327B119E0A6618076DA0106CD2721BD8D48" : "Codepath\/tipcalc\/tipcalc\/",
+    "12F20AF7E593D03452898CE92B2C66146DAEEB9D" : "Codepath\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tipcalc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tipcalc\/tipcalc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rvpradeep\/Codepath",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "12F20AF7E593D03452898CE92B2C66146DAEEB9D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rvpradeep\/tipcalc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "515E0327B119E0A6618076DA0106CD2721BD8D48"
+    }
+  ]
+}
